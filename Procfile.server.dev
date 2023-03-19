@@ -1,0 +1,2 @@
+server: npm --prefix trader-server run dev
+bot: npm --prefix trade-bot run dev
